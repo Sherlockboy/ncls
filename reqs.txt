@@ -1,0 +1,9 @@
+A tech product owner approach you (a senior developer) with the following tasks for creating an API to display a list of vulnerabilities on existing assets. Some of the possible queries from users are for:
+- listing all assets that have active vulnerabilities discovered 3 months ago
+- listing all active vulnerabilities for assets which asset type is "Application" and source type is "GITHUB"
+- listing all assets that has their vulnerabilities archived within the last 6 months
+- listing all assets that has multiple vulnerability severities for the same vulnerability name
+Your task is to deliver a final product that satisfies the above need from your client whom in this case is your product owner.
+This will include defining database schema + writing a back-end code.
+
+NOTE: since this is an interactive role-play test, you do not need to remember every function name and the code won't be checked for perfectly valid syntax either. Your interviewer can assist you in getting the correct function name or correcting the syntax of your code. you simply need to explain what you intend to do.
